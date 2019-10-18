@@ -8,12 +8,21 @@ Write the simplest code to write the numbers from 1 to 100 with the following ru
 ## Example Output
 
 1
+
 2 Whiz
+
 3 Bang
+
 4 Whiz
+
 5
+
 6 WhizBang
+
 .
+
 .
+
 . 
+
 etc
