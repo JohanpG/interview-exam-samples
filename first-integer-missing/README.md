@@ -8,4 +8,5 @@ Writen an efficient algorithm with th efollowing assumptions:
 ## Example input /Output
 
 Given  A = [1,2,3], the function return 4.
+
 Given  A = [-1,-3], the function return 1.

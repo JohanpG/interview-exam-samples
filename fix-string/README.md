@@ -3,8 +3,11 @@ Write a code that receives based on user input does the following, the first lin
 
 ## Example Input / Output
 
-** Input: ** Hello wworld
-** Output: ** Hello world
+**Input:** Hello wworld
 
-** Input: ** This aa sammple tesstt
-** Output: ** This is a sample test
+**Output:** Hello world
+
+
+**Input:** This aa sammple tesstt
+
+**Output:** This is a sample test
